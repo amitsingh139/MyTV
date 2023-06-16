@@ -44,10 +44,3 @@ body{
     opacity: 0.3;
     filter: alpha(opacity=30);
   }
-
-  @media screen and (max-width: 600px) {
-    .left, .main, .right {
-      width: 100%; 
-      heigth:auto;  
-    }
-  }
