@@ -3,16 +3,6 @@ body{
     text-align: center;
     background-color: rgba(29, 103, 133, 0.952);
 }
-
-
-.button {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: centerbody{
-    font-size: 30px;
-    text-align: center;
-    background-color: rgba(29, 103, 133, 0.952);
-}
   
   img {
     width: 200px;
@@ -53,14 +43,4 @@ body{
   .column:hover{
     opacity: 0.3;
     filter: alpha(opacity=30);
-  }
-    text-decoration: none;
-    color: #ffffff;
-    background-color: #7aa8b7;
-    border-radius: 6px;
-    outline: none;
-    transition: 0.3s;
-  }
-  .button:hover { 
-    background-color: #e2aa30;
   }
