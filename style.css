@@ -45,8 +45,9 @@ body{
     filter: alpha(opacity=30);
   }
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 600px) {
     .left, .main, .right {
-      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+      width: 100%; 
+      heigth:auto;  
     }
   }
